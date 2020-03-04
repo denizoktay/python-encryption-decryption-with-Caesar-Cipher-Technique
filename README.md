@@ -1,8 +1,8 @@
 # python-encryption-decryption-with-Caesar-Cipher-Technique
 It can be used for to encrypt/decrypt text files. This technique is called Caesar Cipher. It is a type of substitution cipher in which each letter in the plaintext is 'shifted' a certain number of places down the alphabet.
 
-     It is an encryption/decryption program. It uses a technique which is called Caesar Cipher. It is a type of substitution cipher in which each letter in the plaintext is 'shifted' a certain number of places down/up the alphabet. In my program this number is 1. But it is so easy to modify this program for other numbers.
-         For Encription
+It is an encryption/decryption program. It uses a technique which is called Caesar Cipher. It is a type of substitution cipher in which each letter in the plaintext is 'shifted' a certain number of places down/up the alphabet. In my program this number is 1. But it is so easy to modify this program for other numbers.
+For Encription
 With a shift of 1, A would be replaced by B, 
 B would become C, 
 C would become D,
@@ -31,7 +31,7 @@ Y would become Z,
 Z would become A.
 And it is smilar for small letters too.
 
-      For Decription
+For Decription
 With a shift of 1, A would be replaced by Z, 
 B would become A, 
 C would become B,
@@ -61,20 +61,19 @@ Z would become Y.
 And it is smilar for small letters too.
 
 
-
-      This program make changes with using Unicode values of the characters in input file .
-      Basically, I used Unicode values of 'a' , 'z' , 'A' and 'Z' to shift each character ONE place down/up the alphabet.
+This program make changes with using Unicode values of the characters in input file .
+Basically, I used Unicode values of 'a' , 'z' , 'A' and 'Z' to shift each character ONE place down/up the alphabet.
 These are 4 Unicode values I used:
 The symbol for the letter A is represented by character number 65.
 The symbol for the letter Z is represented by character number 90.
 The symbol for the letter a is represented by character number 97.
 The symbol for the letter z is represented by character number 122.
 
-     For to use it properly First we should encrypt any text we want, then we can decrypt it again to see the program works right.
+For to use it properly First we should encrypt any text we want, then we can decrypt it again to see the program works right.
 
 
-     I selected to make this program because I am interested in encryption techniques .
+I selected to make this program because I am interested in encryption techniques .
      
-     First Run FIRST_Encryption_DenizOktay_PythonAssignment2.py
-     Then, run SECOND_Decryption_DenizOktay_PythonAssignment2.py
+First Run FIRST_Encryption_DenizOktay_PythonAssignment2.py
+Then, run SECOND_Decryption_DenizOktay_PythonAssignment2.py
      
